@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio1_soria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511A9D9C-36E5-4C3D-BF64-AB169B26211D}|ejercicio1_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio1_soria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9D9C-36E5-4C3D-BF64-AB169B26211D}|ejercicio1_soria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A9D9C-36E5-4C3D-BF64-AB169B26211D}|ejercicio1_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio1_soria\\ciudadano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9D9C-36E5-4C3D-BF64-AB169B26211D}|ejercicio1_soria.csproj|solutionrelative:ciudadano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ciudadano.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio1_soria\\Ciudadano.cs",
+              "RelativeDocumentMoniker": "Ciudadano.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio1_soria\\Ciudadano.cs",
+              "RelativeToolTip": "Ciudadano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:14:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio1_soria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio1_soria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:12:18.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

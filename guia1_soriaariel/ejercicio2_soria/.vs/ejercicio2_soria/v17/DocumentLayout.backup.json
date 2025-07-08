@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio2_soria\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio2_soria\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|solutionrelative:gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio2_soria\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio2_soria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F225897-531F-44ED-AEA4-85C39BF2333A}|ejercicio2_soria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Gato.cs",
+              "RelativeDocumentMoniker": "Gato.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Gato.cs",
+              "RelativeToolTip": "Gato.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:31:48.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Perro.cs",
+              "RelativeDocumentMoniker": "Perro.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Perro.cs",
+              "RelativeToolTip": "Perro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:26:54.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:24:26.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio2_soria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:23:41.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

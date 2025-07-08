@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\facturacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\facturacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\impresorapapel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\impresorapapel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\impresoradigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\impresoradigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\iimprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\iimprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\facturasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\facturasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\facturaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}|ejercicio3_soria\\ejercicio3_soria.csproj|solutionrelative:ejercicio3_soria\\facturaprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpresoraDigital.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\ImpresoraDigital.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\ImpresoraDigital.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\ImpresoraDigital.cs",
+              "RelativeToolTip": "ejercicio3_soria\\ImpresoraDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:21:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImpresoraPapel.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\ImpresoraPapel.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\ImpresoraPapel.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\ImpresoraPapel.cs",
+              "RelativeToolTip": "ejercicio3_soria\\ImpresoraPapel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:21:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\Program.cs",
+              "RelativeToolTip": "ejercicio3_soria\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:11:58.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImprimible.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\IImprimible.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\IImprimible.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\IImprimible.cs",
+              "RelativeToolTip": "ejercicio3_soria\\IImprimible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:14:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacturaSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\FacturaSaver.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\FacturaSaver.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\FacturaSaver.cs",
+              "RelativeToolTip": "ejercicio3_soria\\FacturaSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:20:35.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\FacturaCalculator.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\FacturaCalculator.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\FacturaCalculator.cs",
+              "RelativeToolTip": "ejercicio3_soria\\FacturaCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:16:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturaPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\FacturaPrinter.cs",
+              "RelativeDocumentMoniker": "ejercicio3_soria\\FacturaPrinter.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio3_soria\\ejercicio3_soria\\FacturaPrinter.cs",
+              "RelativeToolTip": "ejercicio3_soria\\FacturaPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:19:47.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

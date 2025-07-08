@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\views\\usuarioview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\views\\usuarioview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\views\\libroview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\views\\libroview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\data\\bibliotecarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\data\\bibliotecarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\views\\prestamoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\views\\prestamoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|c:\\users\\maia\\desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1262C1-C757-4817-938B-56F03FCFA71D}|ejercicio5_soria\\ejercicio5_soria.csproj|solutionrelative:ejercicio5_soria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:54:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Program.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:44:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Controllers\\LibroController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:52:22.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroView.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Views\\LibroView.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Views\\LibroView.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Views\\LibroView.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Views\\LibroView.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:49:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BibliotecaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Data\\BibliotecaRepository.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Data\\BibliotecaRepository.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Data\\BibliotecaRepository.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Data\\BibliotecaRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:48:17.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrestamoView.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Views\\PrestamoView.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Views\\PrestamoView.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Views\\PrestamoView.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Views\\PrestamoView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:51:47.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Controllers\\PrestamoController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:54:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioView.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Views\\UsuarioView.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Views\\UsuarioView.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Views\\UsuarioView.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Views\\UsuarioView.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:50:46.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Models\\Prestamo.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:47:28.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Models\\Usuario.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:46:52.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "ejercicio5_soria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\guia1_soriaariel\\ejercicio5_soria\\ejercicio5_soria\\Models\\Libro.cs",
+              "RelativeToolTip": "ejercicio5_soria\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:46:14.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

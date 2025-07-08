@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio3_soria", "ejercicio3_soria\ejercicio3_soria.csproj", "{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E9C8D9-F5C3-42DC-BA87-CC0F0F42B9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF4F0D8-74B9-458F-97B1-6758A7B9C1FF}
+	EndGlobalSection
+EndGlobal
